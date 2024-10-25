@@ -1,2 +1,2 @@
 # SalesTrackingSystem
-Improved GUI
+Improved GUI from https://github.com/YoyLopez/SalesTrackingSystem
